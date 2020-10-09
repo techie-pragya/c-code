@@ -1,0 +1,7 @@
+Import pypdf2
+
+Tables = pypdf2.readpdf("xyz.pdf")
+Print(tables[0])
+
+
+Add this one in your project 
